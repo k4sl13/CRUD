@@ -1,0 +1,108 @@
+h1 { text-align: center }
+
+.styled {
+    border: 0;
+    line-height: 2.5;
+    padding: 0 60px;
+    font-size: 1rem;
+    text-align: center;
+    color: #b2ebeb;
+    border-radius: 10px;
+    background-color: rgb(220 0 0 / 100%);
+    background-image: linear-gradient(
+      to top left,
+      rgb(0 0 0 / 20%),
+      rgb(0 0 0 / 20%) 30%,
+      rgb(0 0 0 / 0%)
+    );
+   
+  }
+
+.styled2 {
+    border: 0;
+    line-height: 2.5;
+    padding: 0 60px;
+    font-size: 1rem;
+    text-align: center;
+    color: #fff;
+    border-radius: 10px;
+    background-color: rgb(27, 170, 236);
+    background-image: linear-gradient(
+      to top left,
+      rgb(0 0 0 / 20%),
+      rgb(0 0 0 / 20%) 30%,
+      rgb(0 0 0 / 0%)
+    );
+   
+  }
+
+
+  .styled3 {
+    border: 0;
+    line-height: 2.5;
+    padding: 0 60px;
+    font-size: 1rem;
+    text-align: center;
+    color: #b2ebeb;
+    border-radius: 10px;
+    background-color: rgb(220 0 0 / 100%);
+    background-image: linear-gradient(
+      to top left,
+      rgb(0 0 0 / 20%),
+      rgb(0 0 0 / 20%) 30%,
+      rgb(0 0 0 / 0%)
+    );
+   
+  }
+
+  .words {
+    
+    margin:15px;
+    gap: 15px;
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+      }
+    
+    
+    .word {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    background-color: rgba(197, 197, 209, 0.459);
+    font-family: Arial;
+    font-size: 30px;
+    border-radius: 5px;
+    text-align: justify;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right:30px;
+    padding-top:5px;
+      }
+  
+  
+    .work {
+          display: flex;
+          justify-content: space-between;
+          align-items: center;
+          width: 100%;
+          background-color: rgba(197, 197, 209, 0.459);
+          font-family: Arial;
+          font-size: 30px;
+          border-radius: 5px;
+          text-align: justify;
+          padding-bottom: 100px;
+          padding-left: 30px;
+          padding-right:30px;
+          padding-top:100px;
+        }
+  
+  .container {
+      max-width: 1000px;
+      width: 100%;
+      margin: 0 auto;
+          }
+
+
+        
